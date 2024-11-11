@@ -1,6 +1,3 @@
-#EXTM3U url-tvg="https://gabbarit.page.link/epg" catchup="append" catchup-days="3" catchup-source="&offset=-${offset}&utcstart=${timestamp}" cache=500
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/706114419045695558/1_sleep_timer_turn_music_off_w176.png",RELAX
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/390472958440767488/694210449243111424/unnamed.png",https://discord.gg/RBy3TKzKAR
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AGS3-L09 Build/HUAWEIAGS3-L09)
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="Entertainment",ТНТ
+http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
