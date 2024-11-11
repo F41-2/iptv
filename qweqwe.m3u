@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTGRP:Общие
+#EXTINF:-1,ТНТ HD
+http://max.vladna.club:8001/tnthd/index.m3u8?token=1234564pda
