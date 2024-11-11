@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,ТНТ
-http://77.233.16.238:8081
 #EXTINF:-1,ТНТ HD
 http://max.vladna.club:8001/tnthd/index.m3u8?token=1234564pda
 #EXTINF:-1,ТНТ HD
