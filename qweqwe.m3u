@@ -2,3 +2,6 @@
 #EXTGRP:Общие
 #EXTINF:-1,ТНТ HD
 http://max.vladna.club:8001/tnthd/index.m3u8?token=1234564pda
+#EXTGRP:Russia
+#EXTINF:-1 tvg-id="TNT.ru" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="Entertainment",ТНТ
+http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
