@@ -1,0 +1,71 @@
+#EXTM3U m3uautoload=1 deinterlace=1 tvg-shift=0 aspect-ratio=16:9 url-tvg="https://iptvx.one/EPG" cache=6699 list-autor="©rus-iptv.blogspot.com"
+
+#---------------------------------------- П Р О Б Н Ы Е ----------------------------------------#
+#EXTINF:-1,rus-iptv.blogspot.com
+#EXTGRP:ПРОБНЫЕ
+https://drive.google.com/uc?export=download&id=1OG_2quyWoJExAqPB_bGsOKOLZoDpieay
+#EXTINF:-1,Первый Канал HD
+#EXTGRP:ПРОБНЫЕ
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?*
+#EXTINF:-1,Россия HD
+#EXTGRP:ПРОБНЫЕ
+http://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8?*FHD
+#EXTINF:-1,Страна FM HD
+#EXTGRP:ПРОБНЫЕ
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1,RU TV HD
+#EXTGRP:ПРОБНЫЕ
+http://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
+#EXTINF:-1,Пятница!
+#EXTGRP:ПРОБНЫЕ
+http://s18209.cdn.ngenix.net/hls/CH_R01_FRIDAY/playlist.m3u8?
+#EXTINF:-1,НТВ Право
+#EXTGRP:ПРОБНЫЕ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+#EXTINF:-1,НТВ Хит
+#EXTGRP:ПРОБНЫЕ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
+#EXTINF:-1,НТВ Стиль
+#EXTGRP:ПРОБНЫЕ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://cdn.ntv.ru/th_style/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Brodilo TV HD
+#EXTGRP:ПРОБНЫЕ
+http://brodilo.tv/channel.php
+#EXTINF:-1,Kulinar TV
+#EXTGRP:ПРОБНЫЕ
+http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1,Неизвестная Россия HD
+#EXTGRP:ПРОБНЫЕ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Sa
+http://cdn.ntv.ru/unknown_russia/tracks-v2a1/playlist.m3u8
+#EXTINF:-1,Московское Образование HD
+#EXTGRP:ПРОБНЫЕ
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1,Звезда HD
+#EXTGRP:ПРОБНЫЕ
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8?*
+#EXTINF:-1,История
+#EXTGRP:ПРОБНЫЕ
+http://stream01.vnet.am/Istoria/mono.m3u8
+#EXTINF:-1,Шаян
+#EXTGRP:ПРОБНЫЕ
+http://shayan.bonus-tv.ru/cdn/shayan/tracks-v3a1/mono.m3u8
+#EXTINF:-1,Россия 24
+#EXTGRP:ПРОБНЫЕ
+http://player.smotrim.ru/iframe/stream/live_id/64739?43e=4.m3u8
+#EXTINF:-1,Удар ТВ HD
+#EXTGRP:ПРОБНЫЕ
+http://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1,RT Д Русский HD
+#EXTGRP:ПРОБНЫЕ
+http://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1,Известия ТВ HD
+#EXTGRP:ПРОБНЫЕ
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1,Три Ангела HD
+#EXTGRP:ПРОБНЫЕ
+https://hls.tv.3angels.ru/stream/HQ.m3u8
+
